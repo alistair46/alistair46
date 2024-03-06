@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Docker**
 
-💬 Ask me about **python ,linux... or anything [here]()
+💬 Ask me about **python ,linux... or anything [here]()***
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
