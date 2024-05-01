@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Home Automation**
+ 🔭 I’m currently working on **API's**
  
- 🌱 I’m currently learning **Docker**
+ 🌱 I’m currently learning **Django**
 
 💬 Ask me about **python ,linux... or anything [here]()***
 
